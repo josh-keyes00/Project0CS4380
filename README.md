@@ -62,13 +62,13 @@ cmake --build . --config Release
 ### Run Program
 
 ```bash
-./Release/b10tob2.exe
+.\Release\b10tob2.exe
 ```
 
 ### Run Unit Tests
 
 ```bash
-./Release/runTests.exe
+.\Release\runTests.exe
 ```
 
 ---
